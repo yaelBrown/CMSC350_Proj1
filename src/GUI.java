@@ -1,3 +1,10 @@
+/*
+Filename: GUI.java
+Author: Yael Brown
+Date: 6/30/2020
+Brief Purpose of the Program: Postfix/Prefix Converter
+*/
+
 import sun.tools.java.SyntaxError;
 
 import javax.swing.*;

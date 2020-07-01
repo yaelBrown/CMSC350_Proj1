@@ -1,3 +1,10 @@
+/*
+Filename: Project1.java
+Author: Yael Brown
+Date: 6/30/2020
+Brief Purpose of the Program: Postfix/Prefix Converter
+*/
+
 import javax.swing.*;
 
 public class Project1 {
